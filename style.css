@@ -1,0 +1,17 @@
+h1 {
+    color: grey;
+}
+p{
+    color: blue;
+}
+div{
+    text-align: center;
+}
+button {
+    margin: 0 auto;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: grey;
+}
